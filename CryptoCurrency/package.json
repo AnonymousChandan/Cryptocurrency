@@ -1,7 +1,7 @@
 {
-  "name": "blockchain",
+  "name": "cryptocurrency",
   "version": "1.0.0",
-  "description": "a blockchain based on node.js",
+  "description": "a cryptocurrency based on node.js",
   "main": "app.js",
   "scripts": {
     "test": "jest --forceExit",
